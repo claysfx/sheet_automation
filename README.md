@@ -1,6 +1,6 @@
 # Automação de Planilhas com Python
 
-o [código](https://github.com/claysfx/sheet_automatization/blob/main/automatization.py) foi desenvolvido no minicurso da [OneBitCode](https://www.onebitcode.com/) com objetivo de atender ao [estudo de caso](https://github.com/claysfx/sheet_automatization/blob/main/estudo_de_caso.pdf) fictício entregue:
+o [código](https://github.com/claysfx/sheet_automatization/blob/main/automation.py) foi desenvolvido no minicurso da [OneBitCode](https://www.onebitcode.com/) com objetivo de atender ao [estudo de caso](https://github.com/claysfx/sheet_automatization/blob/main/estudo_de_caso.pdf) fictício entregue:
 
 - - -
 
