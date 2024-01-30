@@ -31,4 +31,3 @@ passos:
 Ano. A coluna Ano deve ser o índice para a nova tabela.
 2. Importar a nova planilha gerada com as novas informações e criar um [gráfico de barras](https://github.com/claysfx/sheet_automatization/blob/main/data/barchart.xlsx) para apresentar o total de Vendas por Fabricantes ao longo dos anos.
 3. Adicionar fórmula para totalizar as [vendas por cada fabricante](https://github.com/claysfx/sheet_automatization/blob/main/data/VendasPorFabricante.xlsx).
-4. Enviar por e-mail a planilha que foi automatizada.
